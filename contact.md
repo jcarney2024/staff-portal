@@ -1,12 +1,12 @@
 ---
 layout: page
 width: xsmall
-title: Got Any Questions
+title: Have Any Questions?
 permalink: /contact/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
+##### Use this form to contact us.
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+For urgent requests, please contact Information technology at extension 689.
 
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" %}
+{% include formspree.html email="jack@carneyschools.org" redirect="/thanks/" name="true" subject="true" %}
